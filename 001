@@ -48,8 +48,6 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
-https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Local",Island Living Channel
