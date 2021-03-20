@@ -355,39 +355,5 @@ https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/242286_f5625413d8b144bfbc425df3d2be601d~mv2.png/v1/fill/w_300,h_120,al_c,q_95/Hallypop-Logo-(full-color)-2500x1000.webp" group-title="South Korea",Hallypop
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA channels active during live games
-https://i.imgur.com/BtwxhNR.png
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 01 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2358.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 02 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2359.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 03 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2360.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 04 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2361.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 05 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2362.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 06 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2363.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 07 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2364.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 08 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2365.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 09 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2366.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 10 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2367.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 11 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2368.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 12 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2369.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 13 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2370.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 14 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2371.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 15 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2372.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 16 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2373.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/BtwxhNR.png" group-title="Sports",NBA 17 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/2374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="UK",Action Movies
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
